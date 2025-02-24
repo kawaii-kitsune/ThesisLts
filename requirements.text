@@ -1,0 +1,14 @@
+opencv-python
+tensorflow
+numpy
+matplotlib
+datasets
+transformers
+accelerate
+pytorch
+einops
+torchvision
+torch
+scikit-learn
+pandas
+streamlit
